@@ -1,0 +1,5 @@
+frontend:
+	http-server -c-1 (no caching)
+
+backend:
+	node backend.js
